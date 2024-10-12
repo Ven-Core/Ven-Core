@@ -22,4 +22,8 @@
 ## 💡 Capstone System Development
 - I can help you with **Capstone System development** at a **friendly price**! Feel free to message me for more details.
 
+<a href="https://github.com/Ven-Core"><img src="https://img.shields.io/badge/GitHub-Follow%20on%20GitHub-inactive.svg?logo=github"></a>
+</p><p align="left"><a href="https://www.facebook.com/xvennnnnn/"><img src="https://img.shields.io/badge/Facebook-Follow%20on%20Facebook-blue.svg?logo=facebook"></a>
+</p><p align="left">
+  
 Feel free to reach out to me if you'd like to collaborate or discuss tech, development, or any capstone project needs! 😊
