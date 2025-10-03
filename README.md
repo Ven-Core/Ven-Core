@@ -1,11 +1,11 @@
-# Hello, I'm **HAVEN** 👋
+# Hello, I'm **HAVEN CHARLES PAPASIN** 👋
 
 ## 🎸 My Hobbies
 - I'm passionate about **guitar** and love playing in my free time.
 
 ## 💻 Interests & Skills
 - I'm deeply into **Web Development**, **Software Development**, and **Game Development**.
-- I have successfully completed **5 paid projects** with a total value of **₱2M+**.
+- I have successfully completed **5 paid projects** with a total value of **₱183K+**.
 - Additional skills include:
   - **Video Editor**
   - **Videographer**
